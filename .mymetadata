@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="EJB"
+  name="HServer"
+  id="myeclipse.1295447216312"
+  j2ee-spec="5.0"
+  archive="HServer.jar" />
+
